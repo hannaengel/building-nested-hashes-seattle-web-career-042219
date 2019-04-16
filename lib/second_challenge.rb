@@ -1,12 +1,12 @@
 def second_challenge
-  epic_tragedy[:montague] =>
+  epic_tragedy[:montague] =
   {:patriarch => {},
     :matriarch => {},
     :hero => {},
     :hero_friends => []
   }
 
-    epic_tragedy[:capulet] =>
+    epic_tragedy[:capulet] =
     {:patriarch => {},
     :matriarch => {},
     :heroine => {},
